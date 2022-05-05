@@ -21,4 +21,5 @@ node scripts/getZombieInfo.js --network localhost
 ```
 
 Feel free to create your own web app using the pre-fetched json provided as database 🙂
+
 If there's any missing, use tutorials above to fetch newly revealed zombie info
