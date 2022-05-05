@@ -17,7 +17,7 @@ npx hardhat node
 Leave the above shell up running, and in another shell
 
 ```shell
-node scripts/getZombieInfo.js --network localhost
+npx hradhat run scripts/getZombieInfo.js --network localhost
 ```
 
 Feel free to create your own web app using the pre-fetched json provided as database 🙂
